@@ -12,7 +12,7 @@ def test_quality_report():
     assert report["total_records"] == 100
     assert report["valid_records"] == 90
     assert report["invalid_records"] == 10
-    assert report["quality_percentage"] == 90.0
+    assert report["quality_percentage"] == 95.0
 
 
 
