@@ -1,0 +1,7 @@
+customer_id,name,email,age,country
+101,Rahul,rahul@gmail.com,25,India
+102,John,john@gmail.com,31,USA
+103,Amit,,27,India
+104,Sarah,sarah@gmail.com,-5,UK
+105,David,david@gmail.com,42,USA
+106,Anita,anita@gmail.com,29,India
