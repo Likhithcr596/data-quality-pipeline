@@ -11,4 +11,4 @@ COPY data/ ./data/
 
 CMD ["python", "src/pipeline.py"]
 
-helloo
+hel
