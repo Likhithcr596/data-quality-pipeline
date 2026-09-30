@@ -21,3 +21,10 @@ A Python and PySpark based data quality pipeline with automated testing and CI/C
 - GitHub Actions
 - Docker
 - AWS
+
+
+internal notes:
+create venv
+python3 -m venv venv  
+source venv/bin/activate
+pip install -r requirements.txt
